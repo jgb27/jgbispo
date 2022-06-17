@@ -1,17 +1,19 @@
 
 <img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif">
 
-<div align="center">
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgbispo&theme=radical"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jgbispo&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgbispo&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=jgbispo&theme=radical&hide_border=true"/>
-
-</br>
 </br>
 </br>
 
 ## Summary about me...  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="60"> 
     An aspiring developer, currently studying Java and Security
 
+</br>
+</br>
+
+<div align="center">
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgbispo&theme=radical"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jgbispo&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgbispo&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=jgbispo&theme=radical&hide_border=true"/>
+</div>
 </br>
 </br>
 </br>
@@ -27,12 +29,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-	
-<img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="80"> 
-	  
+
 ## 📫 how to find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogustavobispo/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jgsbispo/)
 <!-- ![Snake animation](https://github.com/jgbispo/jgbispo/blob/output/github-contribution-grid-snake.svg) -->
-   
+
+<div align="center">
+    <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="80"> 
+</div>
