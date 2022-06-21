@@ -1,12 +1,12 @@
 
-<img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif">
-
-</br>
-</br>
-
 ## Summary about me...  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="60"> 
     An aspiring developer, currently studying Java and Security
 
+</br>
+</br>
+<div align="center">
+    <img align="leaft" alt="Gif" height="150" width="545" style="border-radius:50px;"  src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif">
+</div>
 </br>
 </br>
 
