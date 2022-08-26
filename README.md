@@ -7,12 +7,6 @@
 
 - 👯 I'm collaborate on [Linkedin Skill Assessments Quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 
-- 🤝 I’m looking for help with [Bispo Todo](https://github.com/bispo027/bispo-todo)
-
-- 👨‍💻 All of my principal projects are available at [https://github.com/orgs/bispo027/repositories](https://github.com/orgs/bispo027/repositories)
-
-- 💬 Ask me about **ReactJs and Javascript**
-
 - 📫 How to reach me **<https://bispolinks.vercel.app/>**
 
 - ⚡ Fun fact **I love coffee and code 1 year in React**
