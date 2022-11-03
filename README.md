@@ -12,8 +12,8 @@ namespace MyBio
       this.country = "Brazil";
       this.email = "jgbispo20@gmail.com";
       this.website = "https://bispolink.vercel.app/";
-      this.skills = new string[] { "Node.js", "CSharp", "C++", "Java" };
-      this.interests = new string[] { "Game Development", "Back-end Development" };
+      this.skills = new string[] { "Node.js", "React.js", "CSharp", "C++", "Java" };
+      this.interests = new string[] { "Game Development", "Back-end Development", "Front-end Development" };
     }
 
     public void PrintBio()
